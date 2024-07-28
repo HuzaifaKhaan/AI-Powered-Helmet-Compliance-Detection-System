@@ -49,8 +49,22 @@ The AI-Powered Helmet Compliance Detection System is designed to enhance safety 
     ```
     Access the app at `http://127.0.0.1:5000`
 
-## Usage
-- Upload an image or provide a video stream through the web interface.
-- The system will analyze the input and display results indicating whether helmets are detected.
+## Screenshots
+![saved_frame](https://github.com/user-attachments/assets/ccfe5dbd-da76-4892-a11f-e28211b3109d)
 
-## Project Structure
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+- [YOLOv5 by Ultralytics](https://github.com/ultralytics/yolov5)
+- Flask Web Framework
+- OpenCV
+
+## Contact
+For any inquiries or support, please contact [huzukham14@gmail.com](mailto:huzukham14@gmail.com).
+
+
