@@ -68,6 +68,15 @@ This project is licensed under the MIT License.
 - OpenCV
 
 ## Contact
-For any inquiries or support, please contact [huzukham14@gmail.com](mailto:huzukham14@gmail.com).
+For any inquiries or support, please contact.
+
+<div>
+  <a href="https://www.linkedin.com/in/huzaifa-khaan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Huzaifa%20Khan-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:huzukham14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-huzaifa%40example.com-red?logo=gmail" alt="Email">
+  </a>
+</div>
 
 
